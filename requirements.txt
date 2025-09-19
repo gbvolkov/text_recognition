@@ -1,0 +1,5 @@
+pillow
+torch
+transformers
+huggingface_hub
+huggingface_hub[cli]
